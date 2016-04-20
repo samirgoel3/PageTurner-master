@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/org.jdom/jdom/1.1/1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd/jdom-1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/jdom-1.1-eb72b7250ac76a4b367f9cd354d719318952c241.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/aopalliance-1.0-26386cfe38d2e67ddf51fc31675e1c1732baa574.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/com.github.rtyley/roboguice-sherlock/1.5/ee18bc59b8abb8d39809822f4c6dfcd5afb89c1c/roboguice-sherlock-1.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ee18bc59b8abb8d39809822f4c6dfcd5afb89c1c">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/roboguice-sherlock-1.5-dd8ac12d81d5e8d23d1eed128f8028b33735d0f7.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlcleaner/htmlcleaner/2.2/57fa6883b2f299d04a769d0daaa0c4ebf20ed4/htmlcleaner-2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0057fa6883b2f299d04a769d0daaa0c4ebf20ed4">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/htmlcleaner-2.2-491e7adf132f5cdcae39956adaeb2f0a95810476.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/nl.siegmann.epublib/epublib-core/3.1/45f183ed222a9deca0cb911a1586297a6c4c382c/epublib-core-3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="45f183ed222a9deca0cb911a1586297a6c4c382c">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/epublib-core-3.1-2383d6611288b5faa07a14612b68ff464d66fd39.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/support-v4-19.0.1-5341e2b9c9e3c373906be89adc3f6c20d0542d02.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.6.1-RC1/fe76e182946faad493a50968f3344e848b467b42/slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fe76e182946faad493a50968f3344e848b467b42">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1-afe042cf2a81ab3e4ead265dfe63073cf894b84c.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/org.codehaus.jedi/jedi-core/3.0.5/e0aa551ffa9e6d0a1a75b54436cf61f66a92cb6b/jedi-core-3.0.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e0aa551ffa9e6d0a1a75b54436cf61f66a92cb6b">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/jedi-core-3.0.5-93d515609dd51575f3f4e22f961e59fbca53898b.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/javax.inject-1-2a2ca7773ea59b571dfc341618572173780f5d31.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/3.0/28586dc97c525501329d9a242fc3402041e3572d/guice-3.0-no_aop.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="28586dc97c525501329d9a242fc3402041e3572d">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-2be622ec6298a10a9d0f4dfe0c5bd0b70ee31ccd.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.1/fd51f906669f49a4ffd06650666c3b8147a6106e/commons-io-2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fd51f906669f49a4ffd06650666c3b8147a6106e">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/commons-io-2.1-394dfdd9eddfc7fb512fa9064b4b04f2a8e95947.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/ch.acra/acra/4.4.0/d2613d074b20674c3d05d6d8615292b6172d1366/acra-4.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d2613d074b20674c3d05d6d8615292b6172d1366">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/acra-4.4.0-0338e41dd144cc4da5dafc774efc01d9dafc6499.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/classes-4bd362aa5149dbd42d621994e5835ea95c8a2552.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/net.nightwhistler.htmlspanner/htmlspanner/0.5-SNAPSHOT/58eda532863010ef6d5483716b98a09841df0326/htmlspanner-0.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="58eda532863010ef6d5483716b98a09841df0326">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/htmlspanner-0.5-SNAPSHOT-d4d2a91cc9bb5851b5f140ccbed4a0db8be10695.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/com.osbcp.cssparser/cssparser/1.5/354572fed1f4159827c4734930898811391ce354/cssparser-1.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="354572fed1f4159827c4734930898811391ce354">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/cssparser-1.5-e21580c8a322bf0698c275ef19cc93820df844a0.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/2.0/727ccb8f376109d0b5c44abca6f791dccc5c5dbc/roboguice-2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/roboguice-2.0-f84295312f60d7c1cd7bef6597b3d6a3dc935d08.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu.inject/cglib/2.2.1-v20090111/7ce5e983fd0e6c78346f4c9cbfa39d83049dda2/cglib-2.2.1-v20090111.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="07ce5e983fd0e6c78346f4c9cbfa39d83049dda2">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/cglib-2.2.1-v20090111-39c7aab758f7053a31c4c0b1d0b782124c75aa47.jar" />
+    </item>
+    <item
+        jar="/Users/spinnosolutions/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/spinnosolutions/Desktop/untitled folder/PageTurner-master/build/intermediates/pre-dexed/debug/jsr305-1.3.9-1311b1e38681da625302e7eb5a1de2ff260b016a.jar" />
+    </item>
+
+</items>
